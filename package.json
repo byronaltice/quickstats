@@ -1,0 +1,16 @@
+{
+  "name": "@byronaltice/quickstats",
+  "version": "0.0.1",
+  "description": "calculates stats for your crypto profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Byron Altice",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0",
+    "underscore": "^1.8.3"
+  }
+}
